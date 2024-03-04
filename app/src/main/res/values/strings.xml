@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherMate</string>
+    <string name="app_Name">WeatherMate</string>
+    <string name="today">Today</string>
+    <string name="degree">00 °ᶜ</string>
+    <string name="sunny">Sunny</string>
+    <string name="fav_list">Fav List</string>
+    <string name="sunset">Sunset</string>
+</resources>

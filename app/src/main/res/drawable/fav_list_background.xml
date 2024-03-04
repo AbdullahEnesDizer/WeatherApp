@@ -1,0 +1,18 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Dış çerçeve rengi -->
+    <solid android:color="#00FFFFFF" />
+
+    <!-- Dış çerçeve genişliği ve rengi -->
+    <stroke
+        android:width="0.00001dp"
+        android:color="@color/off_white" />
+
+    <!-- Butonun iç içe geçmiş iç kısmı -->
+    <padding
+        android:left="1dp"
+        android:right="1dp"
+        android:top="1dp"
+        android:bottom="1dp" />
+</shape>
